@@ -1,0 +1,5 @@
+considerations Vibration reduction dB Natural frequency Hz for dynamic train Natural frequency Hz for static train Dynamic Rail displacement mm Static rail displacement mm Axial load Ton
+Lateral profile height equal to 350mm -20.2 17.7 20.8 2.65 3.08 12.5
+Lateral profile height equal to 250mm -20.6 17.2 20.4 2.65 3.08 12.5
+Lateral profile height equal to 350mm -20.0 17.9 20.8 3.13 3.65 14
+Lateral profile height equal to 250mm -20.2 17.6 20.4 3.13 3.65 14
